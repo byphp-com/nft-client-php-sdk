@@ -1,0 +1,24 @@
+{
+  "name": "VymCN/nft-client-php-sdk",
+  "description": "NFT-CLIENT-PHP-SDK",
+  "keywords": [
+    "nftSDK",
+    "AvataSDK"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "addy",
+      "email": "php.addy@outlook.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "AvataSDK\\": "src/AvataSDK"
+    }
+  },
+  "require": {
+    "php": ">=7.2.0"
+  }
+}
