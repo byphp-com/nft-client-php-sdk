@@ -5,6 +5,7 @@
     "nftSDK",
     "AvataSDK"
   ],
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
