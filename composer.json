@@ -1,9 +1,11 @@
 {
-  "name": "VymCN/nft-client-php-sdk",
+  "name": "vym-cn/nft-client-php-sdk",
   "description": "NFT-CLIENT-PHP-SDK",
   "keywords": [
     "nftSDK",
-    "AvataSDK"
+    "AvataSDK",
+    "BSN",
+    "文昌链"
   ],
   "type": "library",
   "license": "MIT",
